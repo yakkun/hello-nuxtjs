@@ -1,6 +1,6 @@
 # hello-nuxtjs
 
-> NuxtJS newbie here!
+https://yakkun-say-hello-to-nuxtjs.netlify.com/
 
 ## Build Setup
 

@@ -27,6 +27,10 @@ module.exports = {
   ** Global CSS
   */
   css: [
+    '@fortawesome/fontawesome-free-webfonts',
+    '@fortawesome/fontawesome-free-webfonts/css/fa-brands.css',
+    '@fortawesome/fontawesome-free-webfonts/css/fa-regular.css',
+    '@fortawesome/fontawesome-free-webfonts/css/fa-solid.css',
   ],
 
   /*
@@ -58,7 +62,7 @@ module.exports = {
     ** You can extend webpack config here
     */
     extend(config, ctx) {
-      
+
     }
   }
 }
